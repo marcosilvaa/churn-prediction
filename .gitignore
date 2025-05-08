@@ -1,0 +1,27 @@
+# 🐍 Virtualenv
+churn-venv/
+
+# 📦 Dependências do Python
+__pycache__/
+*.py[cod]
+*.so
+
+# 🗃️ Logs e arquivos temporários
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# 📄 Arquivos de configuração do editor/IDE
+.vscode/
+.idea/
+
+# 🔧 Configurações do sistema
+.env
+*.env
+
+# 🚫 Testes e caches
+.coverage
+.tox/
+.cache/
+pytest_cache/
